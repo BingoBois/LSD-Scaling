@@ -46,3 +46,5 @@ Technical:
 *   Pods
     *   Originally only used 2 pods for hosting the Frontend and 2 pods for hosting the Backend
     *   When the team upgraded the Hardware hosting the Kubernetes (More RAM and the support of Auto Deployment from Github of the Frontend), we also increased the backend pods from 2 to 4
+
+For even more details regarding our Kubernetes-setup and process, please see the link to our DevOps repo in the top of this document.
