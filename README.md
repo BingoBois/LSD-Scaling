@@ -1,4 +1,13 @@
 # LSD-Scaling
+
+---
+
+Hand-in for LSD assignment 12 "Scaling"
+
+https://github.com/datsoftlyngby/soft2018fall-lsd-teaching-material/blob/master/assignments/12-DevOps_Scaling.md
+---
+
+
 DevOps Repo: https://github.com/BingoBois/DolphinNewsDevOps
 
 The team decided very early on in the development process to implement scaling capabilities to the project, and so the project has been running using Kubernetes for the past several months. At the same time, the team also successfully implemented auto deployment of new builds (rolling updates) from Github, meaning when a new build was pushed to github, the build would automatically be deployed on the Frontend and Backend. \
